@@ -1,0 +1,6 @@
+{
+  "name": "S & L Financial Associates",
+  "description": "Professional financial guidance and loan solutions, helping individuals, professionals, and businesses explore suitable financial options with confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
